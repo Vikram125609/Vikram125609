@@ -29,7 +29,7 @@
     <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=Vikram125609&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
 </details>
 
-## 🛠️ My favorite tools
+### 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
 

@@ -55,7 +55,7 @@
     <img alt="marterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 </p>
 
-### 🗄️ Databases, Blockchains and cloud hosting
+### 🗄️ Databases
 
 <p>
 <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">

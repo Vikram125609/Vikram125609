@@ -9,9 +9,9 @@
 </p>
 
 <!-- Profile to views -->
-<p align="center">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Vikram125609&color=a177fe&style=for-the-badge"/>
-</p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Vikram125609&label=Profile%20Views&pretty=false" />
+</a>
 
 
 ## 🔥 Github stats

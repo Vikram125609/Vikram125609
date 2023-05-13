@@ -9,9 +9,11 @@
 </p>
 
 <!-- Profile to views -->
-<a href="https://visitcount.itsvg.in">
+<p align='center'>
+  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Vikram125609&label=Profile%20Views&pretty=false" />
-</a>
+  </a>
+</p>
 
 
 ## 🔥 Github stats
